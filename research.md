@@ -1,12 +1,12 @@
 ---
 title: "Research"
-permalink: "/about/"
 layout: page
 ---
 
-## Installation
-
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+## PhD Dissertation
+- Finite Sample Issues with Omitted Instrumental Variables
+- Economic Substitution Between Pesticides and Microplastic
+- Vertically Integrated Equilibrium Model – A small Economy Context
 
 ## Features
 
