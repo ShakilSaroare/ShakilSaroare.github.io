@@ -1,5 +1,4 @@
 ---
-#title: "My Researches"
 layout: page
 ---
 
