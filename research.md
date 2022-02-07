@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "My Researches"
 layout: page
 ---
 
