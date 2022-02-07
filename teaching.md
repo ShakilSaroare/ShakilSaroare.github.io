@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Teaching"
+title: "My Teaching Experiences"
 ---
 
 ## Lead Instructor, Washington State University
