@@ -4,7 +4,7 @@ layout: page
 ---
 
 ### PhD Dissertation Chapters
-- Finite Sample Issues with Omitted Instrumental Variables
+- {file: chapter1.md, title: "Finite Sample Issues with Omitted Instrumental Variables"}
 - Economic Substitution Between Pesticides and Microplastic
 - Vertically Integrated Equilibrium Model – A small Economy Context
 
