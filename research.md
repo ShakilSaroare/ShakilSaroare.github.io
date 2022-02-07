@@ -1,7 +1,9 @@
 ---
-title: "My Researches"
+#title: "My Researches"
 layout: page
 ---
+
+# My Researches
 
 ## PhD Dissertation Chapters
 - Finite Sample Issues with Omitted Instrumental Variables
