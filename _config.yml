@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "teaching.md"}
   - {file: "research.md"}
-  - {file: "CV.pdf", title: "CV"} 
+  - {file: "CV.pdf"} 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:golamsaroare.shakil@wsu.edu"}
