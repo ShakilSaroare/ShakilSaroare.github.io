@@ -25,7 +25,6 @@ layout: page
         <p style="text-align:center;">This is image 3</p>
     </div>
   </div>
-</details>
   
 - <details>
   <summary>Economic Substitution Between Pesticides and Microplastic</summary>
