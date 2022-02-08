@@ -16,10 +16,10 @@ layout: page
     <img src="/dis1.png" alt="image1" style="width:100%">
   </div>
   <div class="column">
-    <img src="\dis2_1.png" alt="image2" style="width:100%">
+    <img src="/dis2_1.png" alt="image2" style="width:100%">
   </div>
   <div class="column">
-    <img src="\dis2_1.png" alt="image3" style="width:100%">
+    <img src="/dis2_1.png" alt="image3" style="width:100%">
   </div>
 </div> 
 - <details>
