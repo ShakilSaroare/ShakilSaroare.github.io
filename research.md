@@ -19,7 +19,7 @@ layout: page
 
 ### MS Thesis
  - Stock Return Modeling Using Hidden Markov Process: Application to Dhaka Stock Exchange Index
- - ![image of something]("https://shakilsaroare.github.io/dis1.png")
+ - ![image of something](https://shakilsaroare.github.io/dis1.png)
 
 ### BS Thesis
 - A Vector Autoregressive Moving Average Model for Monetary Policy Analysis of Bangladesh
