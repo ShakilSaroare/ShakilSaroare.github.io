@@ -7,7 +7,7 @@ layout: page
 
 - <details> <summary>Finite Sample Issues with Omitted Instrumental Variables</summary>
   
-  - ![image1](https://shakilsaroare.github.io//dis1.png) </details>
+  - my name is shakil </details>
   
 - <details> <summary>Economic Substitution Between Pesticides and Microplastic</summary>
   
@@ -19,6 +19,7 @@ layout: page
 
 ### MS Thesis
  - Stock Return Modeling Using Hidden Markov Process: Application to Dhaka Stock Exchange Index
+ - ![image1](https://shakilsaroare.github.io//dis1.png)
 
 ### BS Thesis
 - A Vector Autoregressive Moving Average Model for Monetary Policy Analysis of Bangladesh
