@@ -14,15 +14,12 @@ layout: page
   <div class="image123">
     <div style="float:left;margin-right:5px;">
         <img src="/dis1.png" height="200" width="200"  />
-        <p style="text-align:center;">This is image 1</p>
     </div>
     <div style="float:left;margin-right:5px;">
         <img class="middle-img" src="/dis2_1.jpg" height="200" width="200" />
-        <p style="text-align:center;">This is image 2</p>
     </div>
     <div style="float:left;margin-right:5px;">
         <img src="/dis2_2.jpg" height="200" width="200" />
-        <p style="text-align:center;">This is image 3</p>
     </div>
   </div>
   </details>
