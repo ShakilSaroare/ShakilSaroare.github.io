@@ -13,15 +13,16 @@ layout: page
     </p>
   <div class="row">
   <div class="column">
-    <img src="/dis1.png" alt="image1" style="width:100%">
+    <img src="/dis1.png" alt="image1" style="width:33%">
   </div>
   <div class="column">
-    <img src="/dis2_1.jpg" alt="image2" style="width:100%">
+    <img src="/dis2_1.jpg" alt="image2" style="width:33%">
   </div>
   <div class="column">
-    <img src="/dis2_1.jpg" alt="image3" style="width:100%">
+    <img src="/dis2_1.jpg" alt="image3" style="width:33%">
   </div>
 </div> 
+  
 - <details>
   <summary>Economic Substitution Between Pesticides and Microplastic</summary>
     
