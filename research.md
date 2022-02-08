@@ -7,7 +7,8 @@ layout: page
 
 - <details> <summary>Finite Sample Issues with Omitted Instrumental Variables</summary>
   
-  - ![image of Something](https://shakilsaroare.github.io/dis1.png) </details>
+  - ![image of S](https://shakilsaroare.github.io/dis1.png) 
+  </details>
   
 - <details> <summary>Economic Substitution Between Pesticides and Microplastic</summary>
   
