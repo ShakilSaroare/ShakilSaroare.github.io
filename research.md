@@ -5,7 +5,7 @@ layout: page
 
 ### PhD Dissertation Chapters
 
- <details>
+- <details>
  <summary>Finite Sample Issues with Omitted Instrumental Variables</summary>
   
   #### Abstract
