@@ -11,7 +11,7 @@ layout: page
   #### Abstract
   
   - In this paper, I use simulation methods with independent, relevant, and excluded instrumental variables, wherein they form a complete set of instruments, to quantify finite sample performance of selected estimators. I identify set of structural models from the econometric literature and design Monte Carlo experiments to measure sensitivity of outcomes. In finite samples, I find that the bias and variance of estimators increase with the exclusion of instrumental variables. I also find that the mean squared error of the parameter estimates increase with the increase of number of omitted instruments in the model. Although the increase in sample size reduces the mean squared error overall, the sensitivity due to the number of omitted instruments is not necessarily eliminated by increases in sample size. From a system perspective, relative to a single equation, the equations containing more endogenous variables appear more sensitive to the omitted instruments. The Monte Carlo evidence also suggest that the loss of instruments with strong relevance cannot be recovered by including instruments with weaker relevance. Simulation results also imply that the finite sample performance of 3SLS estimators also suffers under omitted instruments.
-<details>  
+  
 - Economic Substitution Between Pesticides and Microplastic
 - Vertically Integrated Equilibrium Model – A small Economy Context
 
