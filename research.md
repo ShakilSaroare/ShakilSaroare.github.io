@@ -7,7 +7,8 @@ layout: page
 
 - <details> <summary>Finite Sample Issues with Omitted Instrumental Variables</summary>
   
-  - my name is shakil </details>
+  - my name is shakil 
+  - Golam Saroare Shakil </details>
   
 - <details> <summary>Economic Substitution Between Pesticides and Microplastic</summary>
   
