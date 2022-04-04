@@ -13,13 +13,7 @@ layout: page
   
     </details>
   
-- <details>
-  
-  <summary>
-    
-    Economic Substitution Between Pesticides and Microplastic
-  
-  </summary>
+- <details><summary>Economic Substitution Between Pesticides and Microplastic</summary>
     
   <p align="justify">
   Agricultural inputs such as pesticides are used for more efficient production in the short run, but the use of these inputs come with environmental consequences over time. I explore the choices between plastics and pesticides to grow food, as well as the potential negative spillover caused by plastic use in production agriculture that is transformed into microplastic pollution in the soil. My study explores two cases (conventional and unconventional production) to analyze the substitution effect of plastic inputs with pesticides in agriculture. Both imply that a growers’ risk preference has an impact on the substitution between plastic and pesticides in that restrictions on inputs do not necessarily trigger substitution effect for risk averse growers. I also show that a higher cost of restricted pesticide can induce the risk neutral producers to substitute restricted pesticide with plastic mulches (i.e., for weed control). I introduce a restriction on plastic residue which has possible microplastic spillover in the soil and show that this restriction along with high cost associated with biodegradable plastic mulches might incentivize the grower to use more environmentally friendly pesticides.
@@ -27,13 +21,7 @@ layout: page
   
   </details>
   
-- <details>
-  
-  <summary>
-    
-    Vertically Integrated Equilibrium Model – A small Economy Context
-  
-  </summary>
+- <details><summary>Vertically Integrated Equilibrium Model – A small Economy Context</summary>
     
   <p align="justify">
   Partial equilibrium (PE) analysis is widely used to study direct welfare effect on a particular market at a disaggregated level with minimal data requirement. We argue that the non-interactive market assumptions of PE models, in general, are rarely feasible for a small economy. Therefore, we develop vertically integrated CGE model, which is PE in structure but allows for the circular flow of GE models. We use equilibrium displacement model by total logarithmic differential of the behavioral equations of the CGE model. We focus on measuring and quantifying impacts of exogeneous shocks along the supply chain for the agricultural sector in the context of a small economy. We show the differences between the results of GE and PE analysis is economically significant for a small economy. We also decompose economic welfare effects along the supply chain that are traditionally folded together in a GE model.
