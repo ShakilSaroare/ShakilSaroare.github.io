@@ -5,9 +5,7 @@ layout: page
 
 ### PhD Dissertation Chapters
 
-- <details>
-  
-  <summary>
+- <details><summary>
     
     Finite Sample Issues with Omitted Instrumental Variables
   
