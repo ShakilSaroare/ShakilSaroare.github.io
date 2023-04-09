@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "teaching.md", title: "Teaching"}
   - {file: "research.html", title: "Research"}
   #- {url: "https://drive.google.com/file/d/1dpSnS-maUJkn10cLyK3QI7tg9xJumlei/view?usp=sharing", title: "CV"} 
-  - {url: "https://drive.google.com/file/d/1-83KE93giU9lZJ1OtB5OHf7Yek_nXHCE/view?usp=sharing", title: "Resume"} 
+  - {url: "https://drive.google.com/file/d/1-83qFC4Ors2g32ARyJ8D0HETwlvZ0yKu/view?usp=sharing", title: "Resume"} 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:golamsaroare.shakil@wsu.edu"}
